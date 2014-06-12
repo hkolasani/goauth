@@ -8,7 +8,7 @@ A Server side component that implements oAuth Resource Owner Password Flow (idea
 It implements the following  services: <br>
 
 	- sign up a new User 
-	- get access and refresh tokens by posting username and password (grant_type = 'password'
+	- get access and refresh tokens by posting username and password (grant_type = 'password')
 	- get access token by posting refresh token ((grant_type = 'refresh_token') 
 	- validate Access Token to gran access to data services.
 	
