@@ -5,7 +5,8 @@ oAuth 2.0 Provider Implementation in GO!
 
 A Server side component that implements oAuth Resource Owner Password Flow (ideal for first party apps).
 
-It implements the following oAuth services: <br>
+It implements the following  services: <br>
+
 	- sign up a new User <br>
 	- get access and refresh tokens by posting username and password (grant_type = 'password'). <br>
 	- get access token by posting refresh token ((grant_type = 'refresh_token') <br>
